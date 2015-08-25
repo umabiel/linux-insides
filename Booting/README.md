@@ -1,6 +1,6 @@
 # Kernel boot process
 
-This chapter describes the linux kernel boot process. You will see here a
+Este capítulo describe el proceso de inicio del Kernel Linux. You will see here a
 couple of posts which describe the full cycle of the kernel loading process:
 
 * [From the bootloader to kernel](http://0xax.gitbooks.io/linux-insides/content/Booting/linux-bootstrap-1.html) - describes all stages from turning on the computer to before the first instruction of the kernel;
